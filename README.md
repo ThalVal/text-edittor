@@ -2,7 +2,7 @@
 
 ## Description
 
-Build a simple text editor that runs in the browser or installed as a Progressive Web App.
+A simple text editor that runs in browser or installed as a Progressive Web Application.
 
 
 ### User Story
@@ -47,7 +47,6 @@ THEN I should have proper build scripts for a webpack application
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 ## Installation
@@ -107,14 +106,9 @@ This application uses the following:
 [workbox-webpack-plugin](https://www.npmjs.com/package/workbox-webpack-plugin) a plugin for your Webpack build process, helping you generate a manifest of local files that workbox-sw should pre-cache
 
 
-## Usage
-
-A simple text editor that runs in the browser or installed as a Progressive Web App.
-
-
 ### Deployed Site
 
-
+https://text-edittor-8da280c67991.herokuapp.com/
 
 ## License
 
